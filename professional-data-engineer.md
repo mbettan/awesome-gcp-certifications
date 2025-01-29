@@ -12,7 +12,6 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-
 | 2025/01 | [Data Analytics Certification Hub](https://mbettan.github.io/data-analytics-cert/) | Michael Bettan |
 | 2022/10 | [How I prepared for GCP PDE Certification](https://medium.com/@narayan.jogsingh/how-i-prepared-for-gcp-professional-data-engineer-certification-8804d90da042) | Narayan Singh |
 | 2022/07 | [How do I prepared and passed the GCP PDE Certification Exam (2022)](https://medium.com/@garyyiu/how-do-i-prepared-and-passed-the-google-cloud-professional-data-engineer-certification-exam-2022-b13989cd465b) | Gary Yiu |
